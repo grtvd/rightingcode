@@ -3,4 +3,4 @@
 	<p>Copyright &copy; 2018 Robert S. Davidson. All rights reserved.</p>
 	<p>Website design credited to Swift.org</p>
 </footer>
-<script src="../scripts/application.js"></script>
+<script src="/scripts/application.js"></script>
