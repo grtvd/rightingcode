@@ -16,7 +16,7 @@
 			<p>Righting Code is a blog by Bob Davidson. Bob is a senior level career technology consultant with
 				expertise in web, mobile and server-side development. Bob started his career developing in C on Unix,
 				moved into C++ developing Windows and Mac applications, spent a few years with C# and .NET web
-				development, follow-up by 10+ years of Java server and JSP development. Most recently Bob has been
+				development, followed up by 10+ years of Java server and JSP development. Most recently Bob has been
 				working in iOS with Swift.</p>
 
 			<h2>Expertise</h2>
