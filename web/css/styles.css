@@ -1516,11 +1516,6 @@ article .more > p:first-of-type
 		margin-bottom: 1.5em
 	}
 
-	nav[role="navigation"] #logo a
-	{
-		background-position: -15px
-	}
-
 	footer[role="contentinfo"]
 	{
 		margin-left: 0
