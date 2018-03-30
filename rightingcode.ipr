@@ -71,6 +71,13 @@
     </option>
     <option name="PREFERRED_PROJECT_CODE_STYLE" value="Bob" />
   </component>
+  <component name="ProjectDictionaryState">
+    <dictionary name="bob">
+      <words>
+        <w>rightingcode</w>
+      </words>
+    </dictionary>
+  </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
       <profile-state />
