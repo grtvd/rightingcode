@@ -24,9 +24,9 @@
 
 			<h2 class="title">EXECUTIVE PROFILE</h2>
 
-			<p class="highlight"><span class="o">Senior technology leader with 25 year record of success in designing,
-				developing and maintaining successful products. Outstanding record of delivering on-time and within
-				budget.</span></p>
+			<p class="highlight"><span class="strong">Senior technology leader with 25 year record of success in
+				designing, developing and maintaining successful products. Outstanding record of delivering on-time and
+				within budget.</span></p>
 
 			<p>Visionary executive with rare blend of strong technical skills and management abilities. Adept at
 				identifying customer/client needs at the design stage, and designing flexible and scaleable
@@ -58,7 +58,7 @@
 			<h3 class="title">PHELAN HALLINAN DIAMOND &amp; JONES, L.L.P.</h3>
 			<span>Philadelphia, PA</span>
 			<span style="float:right">2005 - Present</span>
-			<p class="highlight tight-margin"><span class="o">Consultant</span></p>
+			<p class="highlight tight-margin"><span class="strong">Consultant</span></p>
 			<p class="tight-margin">Chief Architect responsible for defining development approach, implementing new
 				procedures, training company's development team and establishing foundation for maintainable
 				systems.</p>
@@ -70,7 +70,7 @@
 			<h3 class="title">GAMELINE, L.L.C.</h3>
 			<span>Beverly Hills, CA</span>
 			<span style="float:right">2009 - 2013</span>
-			<p class="highlight tight-margin"><span class="o">Partner</span></p>
+			<p class="highlight tight-margin"><span class="strong">Partner</span></p>
 			<p class="tight-margin">Chief Architect of Baseball Manager, the longest running fantasy baseball game on
 				the Internet.</p>
 			<ul class="tight-margin">
@@ -81,7 +81,7 @@
 			<h3 class="title">INETVOD INC</h3>
 			<span>Collegeville, PA</span>
 			<span style="float:right">2005 - 2009</span>
-			<p class="highlight tight-margin"><span class="o">President &amp; CTO</span></p>
+			<p class="highlight tight-margin"><span class="strong">President &amp; CTO</span></p>
 			<p class="tight-margin">Founded company to build Internet-based Video-on-Demand service. Lead all product
 				design, development, pitch presentations, new business development and partner/investor relations.</p>
 			<ul class="tight-margin">
@@ -95,7 +95,7 @@
 			<h3 class="title">EMONEYADVISOR, INC</h3>
 			<span>Conshohocken, PA</span>
 			<span style="float:right">2000 - 2005</span>
-			<p class="highlight tight-margin"><span class="o">Director of Development</span></p>
+			<p class="highlight tight-margin"><span class="strong">Director of Development</span></p>
 			<p class="tight-margin">Recruited to lead development of critical account integration software for company's
 				financial software package. This feature was a major selling point, but had not been started. Worked
 				closely with business managers, to create functional specifications, established development plan and
@@ -111,7 +111,7 @@
 			<h3 class="title">VERTICALNET INC</h3>
 			<span>Horsham, PA</span>
 			<span style="float:right">2000</span>
-			<p class="highlight tight-margin"><span class="o">Director of Development</span></p>
+			<p class="highlight tight-margin"><span class="strong">Director of Development</span></p>
 			<p class="tight-margin">Brought in to lead integration of new Order Management, Fulfillment and Procurement
 				(OM&amp;F) vendor into company's systems.  Also accountable for enhancing e-commerce functionality.
 				Developed application specifications, determined product features and led development efforts.</p>
@@ -126,7 +126,7 @@
 			<h3 class="title">AFFINITY SPORTS INC</h3>
 			<span>Norristown, PA</span>
 			<span style="float:right">1998 - 2000</span>
-			<p class="highlight tight-margin"><span class="o">Principal</span></p>
+			<p class="highlight tight-margin"><span class="strong">Principal</span></p>
 			<p class="tight-margin">Founded and grew software development company producing web-based fantasy sports
 				games and providing software consulting services.</p>
 			<ul class="tight-margin">
@@ -138,7 +138,7 @@
 			<h3 class="title">REVIEWNET</h3>
 			<span>Fort Washington, PA</span>
 			<span style="float:right">1997 - 1998</span>
-			<p class="highlight tight-margin"><span class="o">Chief Developer</span></p>
+			<p class="highlight tight-margin"><span class="strong">Chief Developer</span></p>
 			<p class="tight-margin">Led 6-person development team working on web-based IT testing application.</p>
 			<ul class="tight-margin">
 				<li>Managed all aspects of project which was developed in C++ with high-end InterBase SQL database
@@ -148,7 +148,7 @@
 			<h3 class="title">THE AFFINITY GROUP INC</h3>
 			<span>Fort Washington, PA</span>
 			<span style="float:right">1998 - 1997</span>
-			<p class="highlight tight-margin"><span class="o">Principal</span></p>
+			<p class="highlight tight-margin"><span class="strong">Principal</span></p>
 			<p class="tight-margin">Founding partner and chief developer of 6-person consulting firm. Oversaw all
 				development projects and managed client relationships.</p>
 			<ul class="tight-margin">
@@ -162,7 +162,7 @@
 			<h3 class="title">REALITY TECHNOLOGIES</h3>
 			<span>Philadelphia, PA</span>
 			<span style="float:right">1990 - 1993</span>
-			<p class="highlight tight-margin"><span class="o">Software Engineer</span></p>
+			<p class="highlight tight-margin"><span class="strong">Software Engineer</span></p>
 			<p class="tight-margin"></p>
 			<ul class="tight-margin">
 				<li>Developed entire back-end logic for fantasy baseball game and golf games for the Prodigy Online
@@ -174,7 +174,7 @@
 			<h3 class="title">CDI CORPORATION</h3>
 			<span>Ambler, PA</span>
 			<span style="float:right">1987 - 1990</span>
-			<p class="highlight tight-margin"><span class="o">Programmer</span></p>
+			<p class="highlight tight-margin"><span class="strong">Programmer</span></p>
 
 			<h2 class="title">EDUCATION</h2>
 

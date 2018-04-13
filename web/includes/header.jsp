@@ -6,7 +6,7 @@
 	<meta name="apple-mobile-web-app-capable" content="yes">
 	<meta name="description" content="Righting Code is a blog by Bob Davidson. Bob is a senior level career technology consultant with expertise in web, mobile and server-side development.">
 
-	<link rel="stylesheet" media="all" href="/css/styles.css?v=2" />
+	<link rel="stylesheet" media="all" href="/css/styles.css?v=3" />
 	<link rel="shortcut icon" sizes="48x48" type="image/vnd.microsoft.icon" href="/favicon.ico" />
 	<link rel="apple-touch-icon" href="/apple-touch-icon.png" />
 	<link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png" />
