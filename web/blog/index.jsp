@@ -9,6 +9,21 @@
 
 	<main role="main">
 
+		<article id="/blog/idtypes" class="summary">
+			<header>
+				<h1 class="title"><a href="/blog/idtypes/">Identifiers are Types</a></h1>
+				<time pubdate datetime="2018-04-13T17:00:00-04:00">April 13, 2018</time>
+			</header>
+			<section class="excerpt">
+				<p>Identifiers are unique types and should be treated as such in our code. In software, we create object
+					types to model the world around us. We create unique object types to model specific data.
+					Identifiers too are a model of a specific kind of data, with its own unique scope. The identifiers
+					for one type of data is completely different than the identifiers in another type of data.</p>
+
+				<a href="/blog/idtypes/">Read more...</a>
+			</section>
+		</article>
+
 		<article id="/blog/naming" class="summary">
 			<header>
 				<h1 class="title"><a href="/blog/naming/">What's in a Name</a></h1>
