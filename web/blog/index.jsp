@@ -9,6 +9,22 @@
 
 	<main role="main">
 
+		<article id="/blog/getvsfind" class="summary">
+			<header>
+				<h1 class="title"><a href="/blog/getvsfind/">Get vs. Find</a></h1>
+				<time pubdate datetime="2018-05-30T21:00:00-04:00">May 30, 2018</time>
+			</header>
+			<section class="excerpt">
+				<p>Get vs. Find is a simple code naming convention for increasing code readability while decreasing code
+					complexity, the amount of code written and potential defects. When fetching data, from something
+					such as a list, map, set, or even permanent storage, the developer will <em>know</em> when the data
+					being fetch should <em>always be found</em> (i.e.<code>gets</code>) or not (i.e.
+					<code>finds</code>).</p>
+
+				<a href="/blog/getvsfind/">Read more...</a>
+			</section>
+		</article>
+
 		<article id="/blog/idtypes" class="summary">
 			<header>
 				<h1 class="title"><a href="/blog/idtypes/">Identifiers are Types</a></h1>
