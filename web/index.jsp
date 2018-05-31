@@ -13,13 +13,13 @@
 				<h1>Hello</h1>
 			</header>
 
-			<p>Righting Code is a blog about writing code, the right way. Software should be written that will last
-				decades. It should be as readable, expandable and maintainable in the 10th or 20th year as the 1st
-				year. It should be as readable, expandable and maintainable whether 1 person has developed it or 100
-				people have. Regardless of the project size, a developer should be able freely to move to any part of
-				the project and be productive updating the code. A developer should be able to read any other
-				developer's code and understand what it is doing. It should not be obvious which developer created a
-				particular piece of code.</p>
+			<p>Righting Code is a <a href="/blog/">blog</a> about writing code, the right way. Software should be
+				written that will last decades. It should be as readable, expandable and maintainable in the 10th or
+				20th year as the 1st year. It should be as readable, expandable and maintainable whether 1 person has
+				developed it or 100 people have. Regardless of the project size, a developer should be able freely to
+				move to any part of the project and be productive updating the code. A developer should be able to read
+				any other developer's code and understand what it is doing. It should not be obvious which developer
+				created a particular piece of code.</p>
 
 			<p>Many developers don't have the mindset that software should be built for the long term. In 1990, I was a
 				consultant to Prodigy working on a proprietary fantasy baseball game. I noticed their developers were
