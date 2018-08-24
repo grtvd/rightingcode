@@ -21,7 +21,7 @@
 
 			<p>Looking for some consulting help?  Please <a href="&#109;&#097;&#105;&#108;&#116;&#111;:&#105;&#110;&#102;&#111;&#64;&#97;&#102;&#102;&#105;&#110;&#105;&#116;&#121;&#115;&#112;&#111;&#114;&#116;&#115;&#46;&#99;&#111;&#109;">email</a> me.</p>
 			<p><a href="../resume/">Resume</a></p>
-			<p><a href="https://www.linkedin.com/in/bodavidson">LinkedIn Profile</a></p>
+			<p><a href="https://www.linkedin.com/in/bodavidson" target="_blank">LinkedIn Profile</a></p>
 
 			<h2>Expertise</h2>
 			<ul>
@@ -41,11 +41,13 @@
 				<li>Many system-level integrations - SOAP, XML, JSON, REST, SQL Server</li>
 				<li>Takeout ordering system - Swift, iOS, Java, Google Web Toolkit, HTML5, CSS, JSON, MySQL, Google
 					App Engine</li>
-				<li>Internet-based Video on Demand system (patented) - Java, XML, JSP, JavaScript, HTML, CSS, SQL Server</li>
-				<li>Baseball Manager (web-based fantasy baseball) - C/C++, Google Web Toolkit, Java, JSON, CSS,
-					Pervasive SQL, AWS</li>
+				<li><a href="https://github.com/grtvd/inetvod" target="_blank">Internet-based Video on Demand system</a>
+					(patented) - Java, XML, JSP, JavaScript, HTML, CSS, SQL Server</li>
+				<li><a href="http://www.baseballmanager.com" target="_blank">Baseball Manager</a> (web-based fantasy
+					baseball) - C/C++, Google Web Toolkit, Java, JSON, CSS, Pervasive SQL, AWS</li>
 				<li>Financial advisor system - C#, .NET, JavaScript, HTML, CSS, SQL Server</li>
-				<li>Fantasy Sports games (web-based football, baseball, basketball, hockey) - C++, HTML</li>
+				<li><a href="https://github.com/grtvd/asifantasysports" target="_blank">Fantasy Sports games</a>
+					(web-based football, baseball, basketball, hockey) - C++, HTML</li>
 				<li>Accounting software - C/C++ Windows, Mac</li>
 			</ul>
 
