@@ -32,7 +32,7 @@
 		<p>Let's take the following example where a list of addresses need to be sorted by the owner's name.</p>
 
 <pre class="highlight"><code><span class="code-comment">// Address data class to be sorted</span>
-<span class="code-type">class</span> Address
+class <span class="code-type">Address</span>
 {
     <span class="code-type">PersonID</span> <span class="code-variable">personID</span>;
     <span class="code-type">String</span> <span class="code-variable">street</span>;
@@ -41,7 +41,7 @@
 }
 
 <span class="code-comment">// Person data class to aide in sorting</span>
-<span class="code-type">class</span> Person
+class <span class="code-type">Person</span>
 {
     <span class="code-type">PersonID</span> <span class="code-variable">personID</span>;
     <span class="code-type">String</span> <span class="code-variable">firstName</span>;

@@ -32,13 +32,13 @@
 			<h3>Modeling Data</h3>
 
 			<p>When creating type names, be careful to consider what data you are modeling. Choosing a bad name will
-				haunt the code forever. For example, I was on an attorney case management system and there was a new
-				requirement to support storing documents with the case. The developer was thinking about the action of
-				<i>uploading</i> documents into the case system, so he named the data type <code>CaseUpload</code>. This
-				is a very confusing name to other developers when they join the project. There is no indication that
-				<code>CaseUpload</code> is actually about documents. And now there have been thousands of lines of code
-				written that refer to <code>CaseUpload</code>. This in turn caused a ripple effect of related type
-				names. When the developer needed to track document types, that type was named
+				haunt the code forever. For example, I was working on an attorney case management system project and
+				there was a new requirement to support storing documents with the case. The developer was thinking about
+				the action of <i>uploading</i> documents into the case system, so he named the data type
+				<code>CaseUpload</code>. This is a very confusing name to other developers when they join the project.
+				There is no indication that <code>CaseUpload</code> is actually about documents. And now there have been
+				thousands of lines of code written that refer to <code>CaseUpload</code>. This in turn caused a ripple
+				effect of related type names. When the developer needed to track document types, that type was named
 				<code>CaseUploadType</code>. When the developer needed to track which documents were being actively
 				edited, that type was named <code>CaseUploadEdit</code>.</p>
 
