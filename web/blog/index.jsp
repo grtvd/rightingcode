@@ -9,6 +9,21 @@
 
 	<main role="main">
 
+		<article id="/blog/typesfordata" class="summary">
+			<header>
+				<h1 class="title"><a href="/blog/typesfordata/">Types for Modeling Data</a></h1>
+				<time pubdate datetime="2018-08-24T15:00:00-04:00">August 24, 2018</time>
+			</header>
+			<section class="excerpt">
+				<p>When developers have a new piece of data to handle, they will create a new type for that data. That's
+					a pretty standard approach. But they often don't create new types to handle a <em>list</em> or
+					<em>collection</em> of that data, or even a type for the identifier. Having these extra types can
+					yield many benefits.</p>
+
+				<a href="/blog/typesfordata/">Read more...</a>
+			</section>
+		</article>
+
 		<article id="/blog/getvsfind" class="summary">
 			<header>
 				<h1 class="title"><a href="/blog/getvsfind/">Get vs. Find</a></h1>
