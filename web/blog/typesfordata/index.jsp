@@ -108,14 +108,14 @@
 				In each method, every member of the type is read or written:</p>
 
 <pre class="highlight"><code>@Override
-public <span class="code-type">void</span> readFrom(<span class="code-type">DataReader</span> <span class="code-variable">reader</span>) throws <span class="code-type">Exception</span>
+public void readFrom(<span class="code-type">DataReader</span> <span class="code-variable">reader</span>) throws <span class="code-type">Exception</span>
 {
     <span class="code-variable">thingID</span> = <span class="code-variable">reader</span>.readDataID(<span class="code-constant">"ThingID"</span>, <span class="code-type">ThingID</span>.CtorDataID);
     <span class="code-variable">name</span> = <span class="code-variable">reader</span>.readString(<span class="code-constant">"Name"</span>, <span class="code-constant">NameMaxLength</span>);
 }
 
 @Override
-public <span class="code-type">void</span> writeTo(<span class="code-type">DataWriter</span> <span class="code-variable">writer</span>) throws <span class="code-type">Exception</span>
+public void writeTo(<span class="code-type">DataWriter</span> <span class="code-variable">writer</span>) throws <span class="code-type">Exception</span>
 {
     <span class="code-variable">writer</span>.writeDataID(<span class="code-constant">"ThingID"</span>, <span class="code-variable">thingID</span>);
     <span class="code-variable">writer</span>.writeString(<span class="code-constant">"Name"</span>, <span class="code-variable">name</span>, <span class="code-constant">NameMaxLength</span>);
