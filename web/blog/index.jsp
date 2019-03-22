@@ -1,4 +1,4 @@
-<!-- Copyright (c) 2018 Robert S. Davidson. All Rights Reserved. See LICENSE file for license information. -->
+<!-- Copyright (c) 2019 Robert S. Davidson. All Rights Reserved. See LICENSE file for license information. -->
 <!DOCTYPE html>
 <html lang="en">
 <jsp:include page="../includes/header.jsp">
@@ -8,6 +8,20 @@
 <jsp:include page="../includes/navigation.jsp"/>
 
 	<main role="main">
+
+		<article id="/blog/sorting" class="summary">
+			<header>
+				<h1 class="title"><a href="/blog/sorting/">Sorting</a></h1>
+				<time pubdate datetime="2019-03-22T08:00:00-04:00">March 22, 2019</time>
+			</header>
+			<section class="excerpt">
+				<p>Correct sorting is very important. Incorrect sorting often leads to subtle defects or sloppy display
+					results. For some developers, sorting is an after thought. They don't give enough consideration to
+					confirming their sort orders or to their code behind their sorting. </p>
+
+				<a href="/blog/sorting/">Read more...</a>
+			</section>
+		</article>
 
 		<article id="/blog/typesfordata" class="summary">
 			<header>
