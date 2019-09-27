@@ -9,6 +9,21 @@
 
 	<main role="main">
 
+		<article id="/blog/redundant" class="summary">
+			<header>
+				<h1 class="title"><a href="/blog/redundant/">Avoid Redundant Calls</a></h1>
+				<time pubdate datetime="2019-09-27T11:00:00-04:00">September 27, 2019</time>
+			</header>
+			<section class="excerpt">
+				<p>It's important as developers that we are careful to not make unnecessary, redundant method calls.
+					During code reviews, I often come across situations where code is doing this extra, unneeded work.
+					In the short term, it may make the code slightly slower. But longer term, as code is updated for
+					future versions, redundant calls could have more drastic effects on performance.</p>
+
+				<a href="/blog/redundant/">Read more...</a>
+			</section>
+		</article>
+
 		<article id="/blog/sorting" class="summary">
 			<header>
 				<h1 class="title"><a href="/blog/sorting/">Sorting</a></h1>
