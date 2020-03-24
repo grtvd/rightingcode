@@ -29,7 +29,7 @@
 				within budget.</span></p>
 
 			<p>Visionary executive with rare blend of strong technical skills and management abilities. Adept at
-				identifying customer/client needs at the design stage, and designing flexible and scaleable
+				identifying customer/client needs at the design stage, and designing flexible and scalable
 				applications. Record of implementing sound development and management procedures to ensure product
 				completion. Exceptional communication skills.</p>
 
