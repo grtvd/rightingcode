@@ -39,9 +39,10 @@
 
 			<h2>Projects</h2>
 			<ul>
+				<li>Field Service Mobile App - Swift, SwiftUI, iOS, JSON, Face ID/Touch ID, RSA/AES Encryption</li>
 				<li>Many system-level integrations - SOAP, XML, JSON, REST, SQL Server</li>
-				<li>Takeout ordering system - Swift, iOS, Java, Google Web Toolkit, HTML5, CSS, JSON, MySQL, Google
-					App Engine</li>
+				<li>Takeout ordering system - Swift, Interface Builder, iOS, Java, Google Web Toolkit, HTML5, CSS, JSON,
+					MySQL, Google App Engine</li>
 				<li><a href="https://github.com/grtvd/inetvod" target="_blank">Internet-based Video on Demand system</a>
 					(patented) - Java, XML, JSP, JavaScript, HTML, CSS, SQL Server</li>
 				<li><a href="http://www.baseballmanager.com" target="_blank">Baseball Manager</a> (web-based fantasy
