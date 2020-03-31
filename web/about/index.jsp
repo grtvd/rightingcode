@@ -29,24 +29,34 @@
 				<li>Architecting new systems</li>
 				<li>Full-stack development</li>
 				<li>Server-side development</li>
+				<li>Complex Systems Integration</li>
 				<li>Mobile development</li>
+				<li>Web-based Applications</li>
 				<li>Code reviews and recommendations</li>
 				<li>Diagnose/maintain existing systems</li>
 				<li>Developing best practices</li>
+				<li>Team Leadership</li>
 				<li>Mentoring developers</li>
+				<li>Staff Development</li>
 			</ul>
 
 
 			<h2>Projects</h2>
 			<ul>
-				<li>Field Service Mobile App - Swift, SwiftUI, iOS, JSON, Face ID/Touch ID, RSA/AES Encryption</li>
-				<li>Many system-level integrations - SOAP, XML, JSON, REST, SQL Server</li>
-				<li>Takeout ordering system - Swift, Interface Builder, iOS, Java, Google Web Toolkit, HTML5, CSS, JSON,
-					MySQL, Google App Engine</li>
+				<li>Field Service Mobile App - Swift, SwiftUI, iOS, JSON, RESTful, Face ID/Touch ID, RSA/AES
+					Encryption</li>
+				<li><a href="https://www.forkxknife.com/" target="_blank">Takeout ordering system</a> - Swift,
+					Interface Builder, iOS, Java, Google Web Toolkit, HTML5, CSS, JSON, MySQL, Google App Engine</li>
+				<li>24x7 real-time enterprise system integrating with multiple 3rd party external systems - Java, XML,
+					SOAP, SQL Server, Linux</li>
+				<li>Enterprise document storage system, with real-time disaster recovery - Java, J2EE, XML, SQL Server,
+					Windows Server</li>
+				<li>Enterprise system for managing bankruptcy and foreclosure proceedings - Java, J2EE, JSP/JSF, XML,
+					SQL Server, Linux</li>
 				<li><a href="https://github.com/grtvd/inetvod" target="_blank">Internet-based Video on Demand system</a>
 					(patented) - Java, XML, JSP, JavaScript, HTML, CSS, SQL Server</li>
 				<li><a href="http://www.baseballmanager.com" target="_blank">Baseball Manager</a> (web-based fantasy
-					baseball) - C/C++, Google Web Toolkit, Java, JSON, CSS, Pervasive SQL, AWS</li>
+					baseball) - C/C++, Google Web Toolkit, Java, JSON, CSS, Pervasive SQL, AWS EC2</li>
 				<li>Financial advisor system - C#, .NET, JavaScript, HTML, CSS, SQL Server</li>
 				<li><a href="https://github.com/grtvd/asifantasysports" target="_blank">Fantasy Sports games</a>
 					(web-based football, baseball, basketball, hockey) - C++, HTML</li>
@@ -57,11 +67,10 @@
 			<ul>
 				<li><strong>Databases:</strong> SQL Server, MySQL, Pervasive SQL, Ctree, Btrieve</li>
 				<li><strong>Languages:</strong> Java, JavaScript, Swift, C++, C#</li>
-				<li><strong>Frameworks:</strong> Google Web Toolkit, JavaServer Pages</li>
+				<li><strong>Frameworks:</strong> UIKit, SwiftUI, Google Web Toolkit, JSP/JSF</li>
 				<li><strong>IDEs:</strong> IntelliJ IDEA, AppCode, Xcode, Visual Studio</li>
-				<li><strong>Platforms:</strong> Amazon Web Services (AWS), Google App Engine</li>
+				<li><strong>Platforms:</strong> Amazon Web Services (AWS) EC2, Google App Engine</li>
 			</ul>
-
 
 			<h2>Patents</h2>
 			<ul>
