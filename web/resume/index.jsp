@@ -36,61 +36,89 @@
 			<h4>Areas of expertise</h4>
 
 			<ul style="float:left">
-				<li>New Product Design</li>
+				<li>Architecting new systems</li>
+				<li>Full-stack development</li>
+				<li>Server-side development</li>
 				<li>Complex Systems Integration</li>
-				<li>Requirements Planning</li>
-				<li>E-commerce Applications</li>
-				<li>Software Project Management</li>
-				<li>Team Leadership</li>
+				<li>Web-based Applications</li>
+				<li>Diagnose/maintain existing systems</li>
 			</ul>
 
 			<ul style="float:left">
-				<li>Web-based Applications</li>
+				<li>Mobile development</li>
+				<li>Code reviews/recommendations</li>
+				<li>Developing best practices</li>
+				<li>Team Leadership</li>
+				<li>Mentoring developers</li>
 				<li>Staff Development</li>
-				<li>Budget Management</li>
-				<li>Internet Video-on-Demand</li>
-				<li>White Paper Creation</li>
-				<li>Start-up &amp; Rapid Growth</li>
 			</ul>
 
 			<h2 class="title" style="clear:both">PROFESSIONAL EXPERIENCE</h2>
 
-			<h3 class="title">PHELAN HALLINAN DIAMOND &amp; JONES, L.L.P.</h3>
+			<h3 class="title">AFFINIFY SPORTS INC</h3>
+			<span>Collegeville, PA</span>
+			<span style="float:right">2015 - Present</span>
+			<p class="highlight tight-margin"><span class="strong">Technical Lead Developer</span></p>
+			<p class="tight-margin">Completed full stack development of takeout ordering system
+				(<a href="https://www.forkxknife.com/" target="_blank">www.forkxknife.com</a>), implementing backend
+				server processes and APIs, including creating both mobile web and native iOS apps.</p>
+			<ul class="tight-margin">
+				<li>Swift, SwiftUI, iOS, JSON, RESTful, RSA/AES Encryption, Location Manager, Face ID/Touch ID</li>
+			</ul>
+
+			<h3 class="title">FSS ACQUISITIONS/PHELAN HALLINAN DIAMOND &amp; JONES</h3>
 			<span>Philadelphia, PA</span>
-			<span style="float:right">2005 - Present</span>
+			<span style="float:right">2005 - 2020</span>
 			<p class="highlight tight-margin"><span class="strong">Consultant</span></p>
 			<p class="tight-margin">Chief Architect responsible for defining development approach, implementing new
 				procedures, training company's development team and establishing foundation for maintainable
 				systems.</p>
 			<ul class="tight-margin">
-				<li>Successfully lead development of company's internal system for managing bankruptcy and foreclosure
-					proceedings, handling document storage and integration with 3rd party external systems.</li>
+				<li>Designed and developed native iOS mobile app for supporting field staff.</li>
+				<ul class="tight-margin">
+					<li>Swift, SwiftUI, iOS, JSON, RESTful, RSA/AES Encryption, Location Manager, Face ID/Touch ID</li>
+				</ul>
+			</ul>
+			<ul class="tight-margin">
+				<li>Architected and lead team for implementation of 24x7 real-time system integrating with multiple 3rd
+					party external systems, processing 200K data points per month.</li>
+				<ul class="tight-margin">
+					<li>Java, XML, SOAP, SQL Server, Linux</li>
+				</ul>
+			</ul>
+			<ul class="tight-margin">
+				<li>Architected and implemented internal document storage system, with real-time disaster recovery,
+					currently managing 100 million documents.</li>
+				<ul class="tight-margin">
+					<li>Java, J2EE, XML, SQL Server, Windows Server</li>
+				</ul>
+			</ul>
+			<ul class="tight-margin">
+				<li>Successfully lead development of internal system for managing bankruptcy and foreclosure
+					proceedings.</li>
+				<ul class="tight-margin">
+					<li>Java, J2EE, JSP/JSF, XML, SQL Server, Linux</li>
+				</ul>
 			</ul>
 
 			<h3 class="title">GAMELINE, L.L.C.</h3>
 			<span>Beverly Hills, CA</span>
 			<span style="float:right">2009 - 2013</span>
-			<p class="highlight tight-margin"><span class="strong">Partner</span></p>
-			<p class="tight-margin">Chief Architect of Baseball Manager, the longest running fantasy baseball game on
-				the Internet.</p>
+			<p class="highlight tight-margin"><span class="strong">Technical Lead Developer</span></p>
+			<p class="tight-margin">Chief Architect of Baseball Manager. Updated to modern web technologies while
+				ensuring backward compatibility with legacy game engine.</p>
 			<ul class="tight-margin">
-				<li>Updated to modern web technologies while ensuring backward compatibility with legacy game
-					engine.</li>
+				<li>C/C++, GWT, Java, JSON, HTML, CSS, Pervasive SQL, AWS EC2</li>
 			</ul>
 
 			<h3 class="title">INETVOD INC</h3>
 			<span>Collegeville, PA</span>
 			<span style="float:right">2005 - 2009</span>
-			<p class="highlight tight-margin"><span class="strong">President &amp; CTO</span></p>
-			<p class="tight-margin">Founded company to build Internet-based Video-on-Demand service. Lead all product
-				design, development, pitch presentations, new business development and partner/investor relations.</p>
-			<ul class="tight-margin">
-				<li>Invented unique approach to delivery of VOD content and created technical white papers to define the
-					system. Raised start-up capital through a series of successful presentations and secured business
-					partners.</li>
-				<li>Hired CEO and business development personnel, recruited both in-house and outsourced developers, and
-					established development protocols and processes - completed product on schedule.</li>
-			</ul>
+			<p class="highlight tight-margin"><span class="strong">Founder</span></p>
+			<p class="tight-margin">Founded company to build Internet-based Video-on-Demand service. Created technical
+				white papers, filed and receive patents for inventing unique approach to delivery of VOD content.
+				Recruited both in-house and outsourced developers, and established development protocols and processes
+				- completed product on schedule.</p>
 
 			<h3 class="title">EMONEYADVISOR, INC</h3>
 			<span>Conshohocken, PA</span>
