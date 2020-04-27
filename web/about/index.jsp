@@ -21,6 +21,7 @@
 
 			<p>Looking for some consulting help?  Please <a href="&#109;&#097;&#105;&#108;&#116;&#111;:&#105;&#110;&#102;&#111;&#64;&#97;&#102;&#102;&#105;&#110;&#105;&#116;&#121;&#115;&#112;&#111;&#114;&#116;&#115;&#46;&#99;&#111;&#109;">email</a> me.</p>
 			<p><a href="../resume/">Resume</a><br>
+				<a href="/recommendations/">Recommendations</a><br>
 				<a href="/references/">References</a><br>
 				<a href="https://www.linkedin.com/in/bodavidson" target="_blank">LinkedIn Profile</a><br>
 				<a href="https://github.com/grtvd" target="_blank">GitHub Repos</a></p>
