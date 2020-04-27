@@ -1,4 +1,4 @@
-<!-- Copyright (c) 2018 Robert S. Davidson. All Rights Reserved. See LICENSE file for license information. -->
+<!-- Copyright (c) 2020 Robert S. Davidson. All Rights Reserved. See LICENSE file for license information. -->
 <!DOCTYPE html>
 <html lang="en">
 <jsp:include page="../includes/header.jsp">
@@ -20,7 +20,8 @@
 
 			<p>Email: <a href="&#109;&#097;&#105;&#108;&#116;&#111;:&#105;&#110;&#102;&#111;&#64;&#97;&#102;&#102;&#105;&#110;&#105;&#116;&#121;&#115;&#112;&#111;&#114;&#116;&#115;&#46;&#99;&#111;&#109;">&#105;&#110;&#102;&#111;&#64;&#97;&#102;&#102;&#105;&#110;&#105;&#116;&#121;&#115;&#112;&#111;&#114;&#116;&#115;&#46;&#99;&#111;&#109;</a></p>
 
-			<p><a href="https://www.linkedin.com/in/bodavidson">LinkedIn Profile (www.linkedin.com/in/bodavidson)</a></p>
+			<p><a href="https://www.linkedin.com/in/bodavidson" target="_blank">LinkedIn Profile
+				(www.linkedin.com/in/bodavidson)</a></p>
 
 			<h2 class="title">EXECUTIVE PROFILE</h2>
 
@@ -74,31 +75,36 @@
 				procedures, training company's development team and establishing foundation for maintainable
 				systems.</p>
 			<ul class="tight-margin">
-				<li>Designed and developed native iOS mobile app for supporting field staff.</li>
-				<ul class="tight-margin">
-					<li>Swift, SwiftUI, iOS, JSON, RESTful, RSA/AES Encryption, Location Manager, Face ID/Touch ID</li>
-				</ul>
+				<li>Designed and developed native iOS mobile app for supporting field staff.
+					<ul class="tight-margin">
+						<li>Swift, SwiftUI, iOS, JSON, RESTful, RSA/AES Encryption, Location Manager, Face ID/Touch
+							ID</li>
+					</ul>
+				</li>
 			</ul>
 			<ul class="tight-margin">
 				<li>Architected and lead team for implementation of 24x7 real-time system integrating with multiple 3rd
-					party external systems, processing 200K data points per month.</li>
-				<ul class="tight-margin">
-					<li>Java, XML, SOAP, SQL Server, Linux</li>
-				</ul>
+					party external systems, processing 200K data points per month.
+					<ul class="tight-margin">
+						<li>Java, XML, SOAP, SQL Server, Linux</li>
+					</ul>
+				</li>
 			</ul>
 			<ul class="tight-margin">
 				<li>Architected and implemented internal document storage system, with real-time disaster recovery,
-					currently managing 100 million documents.</li>
-				<ul class="tight-margin">
-					<li>Java, J2EE, XML, SQL Server, Windows Server</li>
-				</ul>
+					currently managing 100 million documents.
+					<ul class="tight-margin">
+						<li>Java, J2EE, XML, SQL Server, Windows Server</li>
+					</ul>
+				</li>
 			</ul>
 			<ul class="tight-margin">
 				<li>Successfully lead development of internal system for managing bankruptcy and foreclosure
-					proceedings.</li>
-				<ul class="tight-margin">
-					<li>Java, J2EE, JSP/JSF, XML, SQL Server, Linux</li>
-				</ul>
+					proceedings.
+					<ul class="tight-margin">
+						<li>Java, J2EE, JSP/JSF, XML, SQL Server, Linux</li>
+					</ul>
+				</li>
 			</ul>
 
 			<h3 class="title">GAMELINE, L.L.C.</h3>
